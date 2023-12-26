@@ -1,8 +1,20 @@
+### Table of Content:
+    
+      ## 1.Spring Boot Fundamentals
+      ## 2.Microservices architecture
+      ## 3.Spring Ecosystem
+      ## 4.Design Patterns
+      ## 5.RESTful APIs
+      ## 6.Database Interaction
+      ## 7.Testing
+      ## 8.Security
+      ## 9.Monitoring and Logging
+      ## 10.Containerization and Deployment:
+      ## 11.Performance Optimization
+      ## 12.Continuous Integration and Delivery (CI/CD)
 
 
-
-
-##  1.Microservices Architecture: Understand the principles of microservices architecture and how Spring Boot can be leveraged to create microservices-based applications. Know the advantages, challenges, and best practices for designing microservices.
+Understand the principles of microservices architecture and how Spring Boot can be leveraged to create microservices-based applications. Know the advantages, challenges, and best practices for designing microservices.
 
 Certainly! Spring Boot heavily relies on annotations to simplify configuration and development. Here are some of the essential annotations used in Spring Boot:
 
@@ -39,7 +51,9 @@ Certainly! Spring Boot heavily relies on annotations to simplify configuration a
 These annotations simplify the configuration and development process in Spring Boot by reducing XML configuration and allowing developers to express the application's components and behavior directly in the Java code. Understanding how to use these annotations effectively is crucial for building robust and maintainable Spring Boot applications.
 
 
-## 2.Microservices architecture is a design approach where a large application is broken down into smaller, independently deployable services, each focused on a specific business function. Spring Boot, with its features like ease of development, configuration, and embedded servers, can be leveraged effectively to create microservices-based applications. Here are key aspects to consider:
+## 2.Microservices architecture:
+
+is a design approach where a large application is broken down into smaller, independently deployable services, each focused on a specific business function. Spring Boot, with its features like ease of development, configuration, and embedded servers, can be leveraged effectively to create microservices-based applications. Here are key aspects to consider:
 
 ### 2.Principles of Microservices Architecture:
 
